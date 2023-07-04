@@ -1,0 +1,11 @@
+autopep8
+boto3
+flake8
+jupyterlab
+matplotlib
+numpy
+pandas
+prefect
+pytest
+seaborn
+wheel
