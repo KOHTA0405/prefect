@@ -6,6 +6,9 @@ matplotlib
 numpy
 pandas
 prefect
+prefect-dbt
+prefect-gcp
 pytest
+pytest-cov
 seaborn
 wheel
